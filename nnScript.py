@@ -38,7 +38,7 @@ def preprocess():
      Although this function doesn't have any input, you are required to load
      the MNIST data set from file 'mnist_all.mat'.
 
-     Output:
+     
      train_data: matrix of training set. Each row of train_data contains 
        feature vector of a image
      train_label: vector of label corresponding to each image in the training
